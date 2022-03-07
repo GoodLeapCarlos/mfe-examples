@@ -9,7 +9,8 @@ micro frontend examples using webpack 5 module federation and ReactJS
 1. install dependencies (using yarn)
     1. open each project folder in a terminal
     2. `yarn`
-<br>
+<br />
+
 2. run projects
     1. open each project folder in your favorite editor
     2. `yarn dev`
@@ -23,7 +24,8 @@ micro frontend examples using webpack 5 module federation and ReactJS
 1. install dependencies (using yarn)
     1. open each project folder in a terminal
     2. `yarn`
-<br>
+<br />
+
 2. run projects
     1. open each project folder in your favorite editor
     2. `yarn dev`
@@ -36,7 +38,8 @@ micro frontend examples using webpack 5 module federation and ReactJS
 1. install dependencies (using yarn)
     1. open each project folder in a terminal
     2. `yarn`
-<br>
+<br />
+
 2. run projects
     1. open each project folder in your favorite editor
     2. `yarn dev`
