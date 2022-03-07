@@ -15,6 +15,8 @@ micro frontend examples using webpack 5 module federation and ReactJS
     1. open each project folder in your favorite editor
     2. `yarn dev`
 
+Shell: `http://localhost:3000`
+MFEA: `http://localhost:3001`
 
 ### component-based (with broadcast-channel messaging) development
 **project folders**
@@ -30,6 +32,9 @@ micro frontend examples using webpack 5 module federation and ReactJS
     1. open each project folder in your favorite editor
     2. `yarn dev`
 
+Shell: `http://localhost:3000`
+Financial: `http://localhost:3001`
+
 ### component-based (with event-emitter messaging) development
 **project folders**
 `route-based/event-emitter/shell`
@@ -43,3 +48,6 @@ micro frontend examples using webpack 5 module federation and ReactJS
 2. run projects
     1. open each project folder in your favorite editor
     2. `yarn dev`
+
+Shell: `http://localhost:3000`
+Financial: `http://localhost:3001`
